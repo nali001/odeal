@@ -1,0 +1,12 @@
+# python==3.8
+# Basic
+numpy
+pandas
+matplotlib
+
+# ML
+scikit-learn==1.2.0
+pyod==1.0.2
+lightgbm==3.2.1
+xgboost==1.6.0
+catboost==1.2.1
